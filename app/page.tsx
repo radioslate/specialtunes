@@ -18,9 +18,9 @@ export default function Home() {
         <h1 className="text-3xl font-light tracking-widest uppercase mb-2">
           Special Tunes
         </h1>
-        <p className="text-zinc-500 text-sm tracking-wide mb-8">
-          A curated selection of electronic music
-        </p>
+<p className="text-zinc-400 text-base leading-relaxed mb-8 max-w-md">
+  Too much music, too little magic. Special Tunes is where house and techno's most outstanding records get found, felt, and remembered.
+</p>
 
         <div className="flex gap-3 mb-16">
           <button
