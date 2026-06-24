@@ -26,12 +26,14 @@ export default async function TunePage({
 
         <div className="mt-8">
           <span className="text-xs uppercase tracking-widest text-zinc-500">
-            {tune.category === "evergreen" ? "Evergreen" : "New Release"}
+            {tune.category === "evergreen" ? "Evergreen" : "Hottest New Music"}
           </span>
           <h1 className="text-2xl mt-2 mb-1">
             {tune.artist} — {tune.title}
           </h1>
-          <p className="text-zinc-500 text-sm mb-8">{tune.year}</p>
+          <p className="text-zinc-500 text-sm mb-8">
+            {tune.releaseDate}{tune.label && ` · ${tune.label}`}
+          </p>
 
           <div className="aspect-video w-full mb-8">
             <iframe

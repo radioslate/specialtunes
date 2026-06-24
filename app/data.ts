@@ -4,8 +4,55 @@ export const tunes = [
     artist: "Fairmont",
     title: "Gazebo",
     year: 2004,
+    releaseDate: "2004",
+    label: "Bordercommunity",
     category: "evergreen",
     youtubeId: "Xy71oHnVrL0",
     text: "It was one of those very few records where I exactly remember when I heard it for the first time. It was the day before I had to do knee surgery. In my rooftop room, where electronic music played pretty much all day. My ambitions for becoming a decent soccer player were shredded and surgery was the only option to at least be able to do everything as an adult. Then I heard this jewel of a tune, \"Gazebo\" – one of James Holden's Bordercommunity label's best releases of all time, and the signature track of Fairmont. I was smiling when hearing it for the first time, goosebumps everywhere, and the feeling remained. When I left the door next morning approaching the hospital it still resonated with me, and crazy as it is, in the hospital after surgery I was craving to go back home to hear this fantastic tune again. In Spotify days no one can imagine how we \"CD guys\" did it. Much has been written about the track ever since, so not much needed to add aside from the above feeling: a great track wants you to return to it over and over again."
+  },
+  {
+    id: "paris-healy-blue",
+    artist: "Paris & Healy",
+    title: "Blue",
+    year: 2004,
+    releaseDate: "2004",
+    label: "",
+    category: "evergreen",
+    youtubeId: "Mz61bcKfKXQ",
+    text: "It was the intro track Sasha played after James Zabiela did a fabulous warm-up for him at Pacha, Ibiza around 2004. I was there with my friend, also a big Sasha fan, and this track hit us hard. Cocteau Twins vocals and a bassline that's inviting you to dance and dream. I've played the track over and over again after finding it years later. Blue!"
+  },
+  {
+    id: "dj-rolando-knights-of-the-jaguar",
+    artist: "DJ Rolando",
+    title: "Knights of the Jaguar",
+    year: 1999,
+    releaseDate: "1999",
+    label: "Underground Resistance",
+    category: "evergreen",
+    youtubeId: "ZcC3vVh3cOE",
+    text: "Not much to say about this gem – it's a classic and one of those absolute signature tracks that the electronic music I love stands for."
+  },
+  {
+    id: "odds-parents-learn-to-fly-maceo-plex-remix",
+    artist: "Odds Parents",
+    title: "Learn To Fly (Maceo Plex Remix)",
+    year: 2010,
+    releaseDate: "2010",
+    label: "",
+    category: "evergreen",
+    youtubeId: "3ErLuLJmrtY",
+    text: "Maceo Plex is one of the biggest producers we have in the scene, and with this track he created an evergreen – one that fits many sets and carries both nostalgia and hope for the future. I've heard it many, many times, and it's a track I often listen to simply with my eyes closed, around people I love."
+  },
+  {
+    id: "amtrac-civilian-world",
+    artist: "Amtrac",
+    title: "Civilian World",
+    year: 2026,
+    releaseDate: "March 13, 2026",
+    label: "Anjunadeep",
+    category: "new",
+    youtubeId: "TFGyhVLXC50",
+    text: "It's one of those Anjunadeep tracks, by one of those special artists, that instantly makes me smile. I play it repeatedly on sun-soaked days – it's rich in emotion and depth, working both for individual listening and on the dancefloor. Big Amtrac fan!"
+
   }
 ]
