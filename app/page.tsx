@@ -15,11 +15,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <div className="max-w-3xl mx-auto px-6 py-16">
-        <h1 className="text-3xl font-light tracking-widest uppercase mb-2">
-          Special Tunes
+<h1 className="font-[family-name:var(--font-space-grotesk)] text-5xl font-bold tracking-tight mb-4">          Special Tunes
         </h1>
-<p className="text-zinc-400 text-base leading-relaxed mb-8 max-w-md">
-  Too much music, too little magic. Special Tunes is where house and techno's most outstanding records get found, felt, and remembered.
+<p className="text-zinc-400 text-lg leading-relaxed font-light tracking-wide mb-10 max-w-lg">  Too much music, too little magic. Special Tunes is where house and techno's most outstanding records get found, felt, and remembered.
 </p>
 
         <div className="flex gap-3 mb-16">
