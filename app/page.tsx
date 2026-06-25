@@ -17,7 +17,7 @@ export default function Home() {
       <div className="max-w-3xl mx-auto px-6 py-16">
 <h1 className="font-[family-name:var(--font-space-grotesk)] text-5xl font-bold tracking-tight mb-4">          Special Tunes
         </h1>
-<p className="text-zinc-400 text-lg leading-relaxed font-light tracking-wide mb-10 max-w-lg">  Too much music, too little magic. Special Tunes is where house and techno's most outstanding records get found, felt, and remembered.
+<p className="text-zinc-400 text-lg leading-relaxed font-light tracking-wide mb-10 max-w-lg">  Too much music but too little magic? Special Tunes is where house and techno's extraordinary records get found, felt, and remembered.
 </p>
 
         <div className="flex gap-3 mb-16">
