@@ -75,5 +75,5 @@ export const tunes = [
     label: "Bedrock Records",
     category: "evergreen",
     youtubeId: "5ZbK__KkR2A",
-    text: "Melburn, released in 2004 on John Digweed's Bedrock label, burns through you with passion – like a crackling log on a campfire. It carries a deep melancholy, paired with optimism, making it one of the absolute signature tracks of the progressive house scene. Things have}
-]
+text: "Melburn, released in 2004 on John Digweed's Bedrock label, burns through you with passion – like a crackling log on a campfire. It carries a deep melancholy, paired with optimism, making it one of the absolute signature tracks of the progressive house scene. Things have gotten quieter around Luke Chable, but every time I return to Melburn, I'm reminded what a timeless track it is – the ten minutes fly by."
+  }]
