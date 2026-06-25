@@ -52,8 +52,7 @@ export const tunes = [
     label: "Anjunadeep",
     category: "new",
     youtubeId: "TFGyhVLXC50",
-    text: "It's one of those Anjunadeep tracks, by one of those special artists, that instantly makes me smile. I play it repeatedly on sun-soaked days – it's rich in emotion and depth, working both for individual listening and on the dancefloor. Big Amtrac fan!"
-
+    text: "It's one of those Anjunadeep tracks, by one of those special artists, that instantly makes me smile. I play it repeatedly on sun-soaked days; it's rich in emotion and depth, working both for individual listening and on the dancefloor. Big Amtrac fan!"
   },
   {
     id: "m83-dont-save-us-from-the-flames-superpitcher-remix",
@@ -64,7 +63,7 @@ export const tunes = [
     label: "Kompakt",
     category: "evergreen",
     youtubeId: "xE2Qq4mzT3w",
-    text: "Superpitcher, aka Aksel Schaufler – part of the famous Pachanga Boys – delivered a beauty that stands the test of time. 'A ghost is screaming your name...' Sasha played the track often, and so did I. It's one of those tracks that never gets old, that lights up every set – maybe the perfect outro. It's definitively an evergreen; if it were released today, it would still feel fresh."
+    text: "Superpitcher, aka Aksel Schaufler – part of the famous Pachanga Boys – delivered a beauty that stands the test of time. 'A ghost is screaming your name...' Sasha played the track often, and so did I. It's one of those tracks that never gets old, that lights up every set, maybe the perfect outro. It's definitively an evergreen; if it were released today, it would still feel fresh."
   },
   {
     id: "luke-chable-melburn",
@@ -75,7 +74,7 @@ export const tunes = [
     label: "Bedrock Records",
     category: "evergreen",
     youtubeId: "5ZbK__KkR2A",
-text: "Melburn, released in 2004 on John Digweed's Bedrock label, burns through you with passion – like a crackling log on a campfire. It carries a deep melancholy, paired with optimism, making it one of the absolute signature tracks of the progressive house scene. Things have gotten quieter around Luke Chable, but every time I return to Melburn, I'm reminded what a timeless track it is – the ten minutes fly by."
+    text: "Melburn, released in 2004 on John Digweed's Bedrock label, burns through you with passion, like a crackling log on a campfire. It carries a deep melancholy, paired with optimism, making it one of the absolute signature tracks of the progressive house scene. Things have gotten quieter around Luke Chable, but every time I return to Melburn, I'm reminded what a timeless track it is; the ten minutes fly by."
   },
   {
     id: "the-mfa-the-difference-it-makes",
@@ -87,5 +86,71 @@ text: "Melburn, released in 2004 on John Digweed's Bedrock label, burns through 
     category: "evergreen",
     youtubeId: "4dcVUGkTmCA",
     text: "I remember it like it was yesterday. A good buddy of mine had the brand new Balance 005 compilation with him, and we're standing together in his classroom at school when he says, 'Hey Tommy, have you heard the new James Holden compilation yet?' He hits play, and a beautiful journey begins with 'The Difference It Makes.' The track has everything: a memorable bassline, carried by a heavenly melody, subtly distorted vocals, and the urge to never want it to stop. Much has been said about Holden's compilation already; for me, even after more than 20 years, it's still one of the best ever released. This track has a big part in that."
-}
+  },
+  {
+    id: "ame-rej",
+    artist: "Âme",
+    title: "Rej",
+    year: 2005,
+    releaseDate: "2005",
+    label: "Innervisions",
+    category: "evergreen",
+    youtubeId: "BplYOLs9NSQ",
+    text: "First heard at a Rave on Snow event when Toni Rios played it. It completely blew me away, and I knew instantly this tune would change everything."
+  },
+  {
+    id: "argy-unreliable-virgin",
+    artist: "Argy",
+    title: "Unreliable Virgin",
+    year: 2007,
+    releaseDate: "2007",
+    label: "Cocoon Recordings",
+    category: "evergreen",
+    youtubeId: "ZryObggQxVo",
+    text: "Sven Väth played it over and over. Argy is a multifaceted producer; I liked his techno work much more than how he presents himself today."
+  },
+  {
+    id: "nathan-fake-the-sky-was-pink-holden-remix",
+    artist: "Nathan Fake",
+    title: "The Sky Was Pink (Holden Remix)",
+    year: 2004,
+    releaseDate: "2004",
+    label: "Border Community",
+    category: "evergreen",
+    youtubeId: "pN0QzsTbgmg",
+    text: "First heard in a Timo Maas set at Il Muretto in Jesolo, Italy. This track is one of the best techno/progressive house tracks ever produced."
+  },
+  {
+    id: "of-norway-smeigedag",
+    artist: "Of Norway",
+    title: "Smeigedag",
+    year: 2023,
+    releaseDate: "2023",
+    label: "Connaisseur Recordings",
+    category: "evergreen",
+    youtubeId: "6nkN29edv3Y",
+    text: "Smeigedag is what it feels like to stand on a sailboat, sun hitting your face just enough that you have to squint, but you keep your eyes open anyway because you don't want to miss it. The track has a rhythm and melody that absolutely stand out, and it's instantly recognizable. John Digweed has played it several times. The first time I heard it, I knew right away it would become something very special for me, long term."
+  },
+  {
+    id: "lustral-everytime-nalin-kane-mix",
+    artist: "Lustral",
+    title: "Everytime (Nalin & Kane Mix)",
+    year: 1997,
+    releaseDate: "1997",
+    label: "Hooj Choons",
+    category: "evergreen",
+    youtubeId: "-eJFbfMSArg",
+    text: "This sits in the early, high-quality Oakenfold sound: a little trancy, but never overdone, always moving forward, with deep meaning underneath."
+  },
+  {
+    id: "nalin-kane-beachball",
+    artist: "Nalin & Kane",
+    title: "Beachball",
+    year: 1997,
+    releaseDate: "1997",
+    label: "Hooj Choons",
+    category: "evergreen",
+    youtubeId: "NcwrW231GEA",
+    text: "A summer track that always sprays pure positive vibes."
+  }
 ]
