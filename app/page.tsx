@@ -10,7 +10,7 @@ export default function Home() {
   const filteredTunes = tunes.filter((tune) => {
     if (filter === "all") return true
     return tune.category === filter
-  })
+  }).sort((a, b) => b.year - a.year)
 
   const playlistUrl = `https://www.youtube.com/watch_videos?video_ids=${filteredTunes.map((t) => t.youtubeId).join(",")}`
 
