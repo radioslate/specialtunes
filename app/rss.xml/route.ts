@@ -1,13 +1,21 @@
 import { tunes } from "../data"
 
+const escapeXml = (str: string) =>
+  str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/'/g, "&apos;")
+    .replace(/"/g, "&quot;")
+
 export async function GET() {
   const sortedTunes = [...tunes].sort((a, b) => (b.year ?? 0) - (a.year ?? 0))
 
   const items = sortedTunes
     .map((tune) => {
       const link = `https://specialtunes.com/tunes/${tune.id}`
-      const title = `${tune.artist} – ${tune.title}`
-      const description = tune.text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      const title = escapeXml(`${tune.artist} - ${tune.title}`)
+      const description = escapeXml(tune.text)
       return `
     <item>
       <title>${title}</title>
