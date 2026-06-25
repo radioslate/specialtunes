@@ -54,5 +54,26 @@ export const tunes = [
     youtubeId: "TFGyhVLXC50",
     text: "It's one of those Anjunadeep tracks, by one of those special artists, that instantly makes me smile. I play it repeatedly on sun-soaked days – it's rich in emotion and depth, working both for individual listening and on the dancefloor. Big Amtrac fan!"
 
-  }
+  },
+  {
+    id: "m83-dont-save-us-from-the-flames-superpitcher-remix",
+    artist: "M83",
+    title: "Don't Save Us From The Flames (Superpitcher Remix)",
+    year: 2006,
+    releaseDate: "2006",
+    label: "Kompakt",
+    category: "evergreen",
+    youtubeId: "xE2Qq4mzT3w",
+    text: "Superpitcher, aka Aksel Schaufler – part of the famous Pachanga Boys – delivered a beauty that stands the test of time. 'A ghost is screaming your name...' Sasha played the track often, and so did I. It's one of those tracks that never gets old, that lights up every set – maybe the perfect outro. It's definitively an evergreen; if it were released today, it would still feel fresh."
+  },
+  {
+    id: "luke-chable-melburn",
+    artist: "Luke Chable",
+    title: "Melburn",
+    year: 2004,
+    releaseDate: "2004",
+    label: "Bedrock Records",
+    category: "evergreen",
+    youtubeId: "5ZbK__KkR2A",
+    text: "Melburn, released in 2004 on John Digweed's Bedrock label, burns through you with passion – like a crackling log on a campfire. It carries a deep melancholy, paired with optimism, making it one of the absolute signature tracks of the progressive house scene. Things have}
 ]
