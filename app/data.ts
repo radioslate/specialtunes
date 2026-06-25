@@ -152,5 +152,126 @@ export const tunes = [
     category: "evergreen",
     youtubeId: "NcwrW231GEA",
     text: "A summer track that always sprays pure positive vibes."
+  },
+  {
+    id: "royksopp-sordid-affair-maceo-plex-remix",
+    artist: "Röyksopp",
+    title: "Sordid Affair (Maceo Plex Remix)",
+    year: 2014,
+    releaseDate: "2014",
+    label: "Dog Triumph",
+    category: "evergreen",
+    youtubeId: "004n7LTqIW0",
+    text: "A track that enriches every set and delivers deep emotions. For me, one of the best remix works, ever."
+  },
+  {
+    id: "new-jackson-the-night-mail",
+    artist: "New Jackson",
+    title: "The Night Mail",
+    year: 2011,
+    releaseDate: "2011",
+    label: "Permanent Vacation",
+    category: "evergreen",
+    youtubeId: "3bmnYpQP__U",
+    text: "New Jackson works with distorted vocoder voices that accompany many of his tracks and create a particular atmosphere and density. 'The Night Mail' is one of his signature tracks, and I love it deeply."
+  },
+  {
+    id: "locked-groove-enigma",
+    artist: "Locked Groove",
+    title: "Enigma",
+    year: 2014,
+    releaseDate: "2014",
+    label: "Hotflush Recordings",
+    category: "evergreen",
+    youtubeId: "E2UQ4hzmdGc",
+    text: "Another track I first heard in Ibiza, in the original mix by John Talabot and in Seth Troxler's Scuba remix. It still moves me to this day: dark, driving, with a massive climax."
+  },
+  {
+    id: "roger-sanchez-another-chance",
+    artist: "Roger Sanchez",
+    title: "Another Chance",
+    year: 2001,
+    releaseDate: "2001",
+    label: "Defected Records",
+    category: "evergreen",
+    youtubeId: "rdlvPe959Ck",
+    text: "One of the more commercial tracks in this selection, but it connects me to my early days in Ibiza and that feeling of pure freedom you only know in your youth and early adulthood."
+  },
+  {
+    id: "robert-babicz-remote-kiss",
+    artist: "Robert Babicz",
+    title: "Remote Kiss",
+    year: 2010,
+    releaseDate: "2010",
+    label: "Babiczstyle",
+    category: "evergreen",
+    youtubeId: "WZEQIjDpiAs",
+    text: "Just the title alone is beautiful, and the track is just as enchanting. Babicz creates soundscapes and emotions like almost no one else, while always staying distant and subtle."
+  },
+  {
+    id: "gabriel-ananda-maceo-plex-solitary-daze",
+    artist: "Gabriel Ananda & Maceo Plex",
+    title: "Solitary Daze",
+    year: 2014,
+    releaseDate: "2014",
+    label: "Ellum Audio",
+    category: "evergreen",
+    youtubeId: "ib-lvhJnV0Q",
+    text: "Gabriel Ananda and Maceo Plex created an evergreen here, one that fits many sets and carries both nostalgia and hope for the future."
+  },
+  {
+    id: "benoit-sergio-let-me-count-the-ways",
+    artist: "Benoit & Sergio",
+    title: "Let Me Count The Ways",
+    year: 2011,
+    releaseDate: "2011",
+    label: "Spectral Sound",
+    category: "evergreen",
+    youtubeId: "RJ2JVte9XcA",
+    text: "An artful duo. 'Let Me Count The Ways' touched me deeply emotionally and was played around the globe by the likes of Sven Väth, Sasha & Digweed."
+  },
+  {
+    id: "radio-slave-danton-eeprom-grindhouse",
+    artist: "Radio Slave feat. Danton Eeprom",
+    title: "Grindhouse (Danton Eeprom Remix)",
+    year: 2008,
+    releaseDate: "2008",
+    label: "Rekids",
+    category: "evergreen",
+    youtubeId: "vbmqPX6Onqw",
+    text: "I heard it in 2008 when Chris Liebing dropped the remix at Club Nova in Sattledt, and he tore the place apart. I still come back to it again and again, mostly because of that gloriously distorted percussion that drives the whole track."
+  },
+  {
+    id: "eelke-kleijn-levensgenieter",
+    artist: "Eelke Kleijn",
+    title: "Levensgenieter",
+    year: 2011,
+    releaseDate: "2011",
+    label: "Outside The Box Music",
+    category: "evergreen",
+    youtubeId: "FcS8myF0z4E",
+    text: "It fits into every set that moves between house, progressive house, and techno, and it will tear the place apart every single time."
+  },
+  {
+    id: "kolsch-goldfisch",
+    artist: "Kölsch",
+    title: "Goldfisch",
+    year: 2013,
+    releaseDate: "2013",
+    label: "Kompakt",
+    category: "evergreen",
+    youtubeId: "lBaEUsJNpf0",
+    text: "One of Kölsch's most famous tracks, instantly recognizable, full of joy, and a guaranteed highlight wherever it's played."
+  },
+  {
+    id: "sascha-funke-mango-cookie-dj-koze-pink-moon-remix",
+    artist: "Sascha Funke",
+    title: "Mango Cookie (DJ Koze's Pink Moon Remix)",
+    year: 2008,
+    releaseDate: "2008",
+    label: "BPitch Control",
+    category: "evergreen",
+    youtubeId: "2DvlihnVjYs",
+    text: "A wonderfully complex, twelve-minute journey from DJ Koze, one of the true guarantors of quality in German electronic music."
   }
 ]
