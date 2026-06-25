@@ -273,5 +273,16 @@ export const tunes = [
     category: "evergreen",
     youtubeId: "2DvlihnVjYs",
     text: "A wonderfully complex, twelve-minute journey from DJ Koze, one of the true guarantors of quality in German electronic music."
+  },
+  {
+    id: "estiva-via-balearia-extended-mix",
+    artist: "Estiva",
+    title: "Via Balearia (Extended Mix)",
+    year: 2026,
+    releaseDate: "June 12, 2026",
+    label: "Colorize",
+    category: "new",
+    youtubeId: "cwOYcZLY7Pc",
+    text: "Apart from the catchy name 'Via Balearia', this for-my-taste rather housey track carries an extreme amount of feeling. Somehow it catapults me back to Ibiza twenty years ago: hand on the back of the girl from Botany Bay, sitting at Café del Mar."
   }
 ]
