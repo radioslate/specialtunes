@@ -9,8 +9,13 @@ export default function Home() {
 
   const filteredTunes = tunes.filter((tune) => {
     if (filter === "all") return true
-    return tune.category === filter
-  }).sort((a, b) => b.year - a.year)
+return tune.category === filter
+  })
+  .sort((a, b) => {
+  const aDate = a.dateAdded ?? `${a.year}-01-01`
+  const bDate = b.dateAdded ?? `${b.year}-01-01`
+  return bDate.localeCompare(aDate)
+})
 
   const playlistUrl = `https://www.youtube.com/watch_videos?video_ids=${filteredTunes.map((t) => t.youtubeId).join(",")}`
 
@@ -66,7 +71,11 @@ export default function Home() {
                 <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/0 to-black/0" />
                 <span className="absolute top-3 left-3 text-xs uppercase tracking-widest bg-black/60 px-2 py-1 rounded">
                   {tune.category === "evergreen" ? "Evergreen" : "Hottest New Music"}
-                </span>
+                </span>{tune.dateAdded && (
+  <span className="absolute top-3 right-3 text-xs bg-black/60 px-2 py-1 rounded text-zinc-300">
+    Added {tune.dateAdded}
+  </span>
+)}
               </div>
               <h2 className="text-xl mb-1 group-hover:text-zinc-300 transition-colors">
                 {tune.artist} — {tune.title}
@@ -76,6 +85,10 @@ export default function Home() {
           ))}
         </div>
       </div>
-    </main>
+    <footer className="mt-20 pt-8 border-t border-zinc-800">
+  <Link href="/impressum" className="text-zinc-500 text-xs hover:text-zinc-300 transition-colors">
+    Impressum
+  </Link>
+</footer> </main>
   )
 }
