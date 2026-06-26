@@ -49,6 +49,7 @@ export const tunes = [
     title: "Civilian World",
     year: 2026,
     releaseDate: "March 13, 2026",
+    dateAdded: "2026-06-24",
     label: "Anjunadeep",
     category: "new",
     youtubeId: "TFGyhVLXC50",
@@ -280,9 +281,22 @@ export const tunes = [
     title: "Via Balearia (Extended Mix)",
     year: 2026,
     releaseDate: "June 12, 2026",
+    dateAdded: "2026-06-26",
     label: "Colorize",
     category: "new",
     youtubeId: "cwOYcZLY7Pc",
     text: "Apart from the catchy name 'Via Balearia', this for-my-taste rather housey track carries an extreme amount of feeling. Somehow it catapults me back to Ibiza twenty years ago: hand on the back of the girl from Botany Bay, sitting at Café del Mar."
+  },
+  {
+    id: "steve-lawler-sass",
+    artist: "Steve Lawler",
+    title: "Sass",
+    year: 2026,
+    releaseDate: "June 26, 2026",
+    dateAdded: "2026-06-26",
+    label: "Bedrock Records",
+    category: "new",
+    youtubeId: "KwYIG1j-LH8",
+    text: "When Steve Lawler releases new stuff on Bedrock Records, it has my instant attention. And this track delivers something extraordinary. It's moving, with a highly engaging bassline and atmosphere; you simply want to dance. Lawler has been a defining force in house music since the early 90s, rising from illegal warehouse raves under the M42 motorway to residencies at Cream and Space Ibiza, where he earned the nickname 'King of Space.' A very strong record from a true veteran of the scene!"
   }
 ]
