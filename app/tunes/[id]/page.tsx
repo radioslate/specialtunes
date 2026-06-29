@@ -45,6 +45,17 @@ export default async function TunePage({
             />
           </div>
 
+          {tune.spotifyId && (
+            <a
+              href={`https://open.spotify.com/track/${tune.spotifyId}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 text-xs uppercase tracking-widest text-zinc-400 hover:text-white transition-colors mb-8"
+            >
+              Listen on Spotify
+            </a>
+          )}
+
           <p className="text-zinc-300 leading-relaxed">{tune.text}</p>
         </div>
       </div>

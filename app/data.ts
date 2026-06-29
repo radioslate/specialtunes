@@ -296,7 +296,7 @@ export const tunes = [
     dateAdded: "2026-06-26",
     label: "Bedrock Records",
     category: "new",
-    youtubeId: "KwYIG1j-LH8",
+    youtubeId: "KwYIG1j-LH8", spotifyId: "6jW9a8MZYaTRdw8X8IZkN1",
     text: "When Steve Lawler releases new stuff on Bedrock Records, it has my instant attention. And this track delivers something extraordinary. It's moving, with a highly engaging bassline and atmosphere; you simply want to dance. Lawler has been a defining force in house music since the early 90s, rising from illegal warehouse raves under the M42 motorway to residencies at Cream and Space Ibiza, where he earned the nickname 'King of Space.' A very strong record from a true veteran of the scene!"
   }
 ]
