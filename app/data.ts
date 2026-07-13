@@ -297,6 +297,17 @@ export const tunes = [
     label: "Bedrock Records",
     category: "new",
     youtubeId: "KwYIG1j-LH8", spotifyId: "6jW9a8MZYaTRdw8X8IZkN1",
-    text: "When Steve Lawler releases new stuff on Bedrock Records, it has my instant attention. And this track delivers something extraordinary. It's moving, with a highly engaging bassline and atmosphere; you simply want to dance. Lawler has been a defining force in house music since the early 90s, rising from illegal warehouse raves under the M42 motorway to residencies at Cream and Space Ibiza, where he earned the nickname 'King of Space.' A very strong record from a true veteran of the scene!"
+    text: "When Steve Lawler releases new stuff on Bedrock Records, it has my instant attention. And this track delivers something extraordinary. It's moving, with a highly engaging bassline and atmosphere; you simply want to dance. Lawler has been a defining force in house music since the early 90s, rising from illegal warehouse raves under the M42 motorway to residencies at Cream and Space Ibiza, where he earned the nickname 'King of Space.' A very strong record from a true veteran of the scene!"},
+ {
+    id: "sasha-hollow-sun-25",
+    artist: "Sasha",
+    title: "Hollow Sun 25",
+    year: 2026,
+    releaseDate: "July 10, 2026",
+    dateAdded: "2026-07-13",
+    label: "Last Night On Earth",
+    category: "new",
+    youtubeId: "v0sc_UAYmxg",
+    text: "Sasha is a grandmaster, and for me the most consistent DJ and producer of the last two decades. Everything he touches carries a flavor nobody else can fake, and his sets are always a journey rather than a stack of records played in a row. Hollow Sun does the thing Sasha has spent a career perfecting: it makes something feel old and new at the same time, nostalgic and forward looking within the same eight bars. This is the 25 version, a slow burning seven minute odyssey that takes its time, an acid tinted bassline crawling underneath while the whole thing keeps reaching for something just out of view. There is a sister on the release, Hollow Sun 24, which revisits the same themes and blows the breakdown wide open with those classic Ibizan trance synths. Two readings of one idea, and you want both. Fitting that this lands as the 200th release on Last Night On Earth, the label Sasha has been quietly shaping since 2011. Fifteen years and still landing punches. The track is doing the rounds in the progressive scene right now, and I have zero problem admitting I am part of the reason why."
   }
 ]
